@@ -1,7 +1,8 @@
 DISCLAIMER! All of the .psd files were uploaded using [Git Large File System (Git LFS)](https://git-lfs.github.com/). If you wish to download the project, please, install the LFS extension and the clone the repo using the command line. Otherwise, the project might not have all of the resources.
 
-# VR Experience in Unity3D
+# Fair Choices
 This project was made as part of "Taller Vertical 2018 ISC - LAD"
+[![Fair Choices](https://i.imgur.com/NgHE9So.jpg)](https://www.youtube.com/watch?v=3LhwNrWxDRI "Fair Choices")
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
